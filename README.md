@@ -15,4 +15,6 @@ In this project i use :<br/>
 -GetX library for State Management.<br/>
 -Hive Database.<br/>
 
+## Bugs
+-Tickbox state changes for all todos.
 
